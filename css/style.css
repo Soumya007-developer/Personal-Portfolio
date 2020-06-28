@@ -32,21 +32,21 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #c32865;
+  background: #0fe5ed;
 }
 
 ::selection{
-  background-color:#c32865;
+  background-color:#0fe5ed;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#c32865;
+    background-color:#0fe5ed;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#c32865;
+    background-color:#0fe5ed;
     color:#fff;
 }
 
@@ -1429,7 +1429,7 @@ a.brand:focus{
 }
 
 .progress-bar{
-  background-color:#c32865;
+  background-color:#0fe53d;
   height: 100%;
 }
 
